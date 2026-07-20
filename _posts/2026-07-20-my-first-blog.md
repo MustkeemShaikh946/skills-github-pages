@@ -15,5 +15,3 @@ Today I learned:
 - Markdown
 - GitHub Pages
 - Jekyll themes
-
-I'm excited to continue learning Git and GitHub!
